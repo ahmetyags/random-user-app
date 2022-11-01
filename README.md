@@ -31,9 +31,9 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
+## Outcome
 
-![Project 002 Snapshot](random-user-app.gif)
+![Project 002 Snapshot](./user1.gif)
 
 ## Objective
 
